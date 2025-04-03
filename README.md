@@ -1,4 +1,3 @@
-Fechou! É só copiar e colar esse texto na **descrição do repositório** no GitHub. 🚀  
 
 ---
 
@@ -44,9 +43,6 @@ gcc agenda.c funcoes.c -o agenda
 
 ---
 
-📌 **Autor:** [Big](https://github.com/seu-usuario)  
 Dá um ⭐ no repositório se curtiu! 😉  
 
 ---
-
-Agora é só colar na **descrição do repositório** no GitHub e postar! 🚀🔥 Se quiser alguma outra edição, só falar. 😎
